@@ -17,6 +17,7 @@ The data used to construct features is a 34-dimensional **Action** vector, which
 
 ## 📂 Dataset
 - **Source:** [PhysicalAI Robotics Manipulation dataset (NVIDIA)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Manipulation-Objects)
+- **Raw Data:** The data used for this project is in the Zip file added to this repo
 - **Tasks:** `pick`, `place_bench`, `place_cabinet`
 - **Features:** Sensor dimension means (e.g., `dim_5_mean`, `dim_6_mean`), `gripper_motion_time`, `episode_length`, and more.
 
