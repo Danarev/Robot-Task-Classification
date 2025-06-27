@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 As part of a Statistical Learning Theory course, we were asked to create a project demonstrating different machine learning models studied during the course.  
-This project focuses on classifying robotic manipulation tasks — including picking and placing objects — using sensor-derived features from robot episodes.
+This project focuses on classifying robotic manipulation tasks - including picking and placing objects - using sensor-derived features from robot episodes.
 
 The dataset contains three types of robot tasks:
 - **pick** – the robot picks an object from a bench
